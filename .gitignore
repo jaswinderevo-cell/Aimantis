@@ -1,0 +1,4 @@
+# Ignore Visual Studio Code settings and files
+*.code-workspace
+# .env files
+*.env
