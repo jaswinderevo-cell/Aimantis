@@ -1,0 +1,14 @@
+Django>=4.2,<5
+djangorestframework
+
+psycopg2-binary
+
+django-crontab
+watchfiles
+drf-spectacular==0.28.0
+django-cors-headers
+python-dotenv
+flake8
+black
+user-agents
+django-filter

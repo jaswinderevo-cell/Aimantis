@@ -1,0 +1,5 @@
+[
+  { "id": 1, "portalName": "booking.com", "connectedDate": "2025-09-09" },
+  { "id": 2, "portalName": "airbnb", "connectedDate": "" },
+  { "id": 3, "portalName": "expedia", "connectedDate": "" }
+]

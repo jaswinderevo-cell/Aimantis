@@ -1,0 +1,44 @@
+[
+  {
+    "name": "John C",
+    "nights": "7 Nights",
+    "type": "Booking",
+    "price": "$589",
+    "status": "check in"
+  },
+  {
+    "name": "Liza",
+    "nights": "5 Nights",
+    "type": "Airbnb",
+    "price": "$450",
+    "status": "check in"
+  },
+  {
+    "name": "User",
+    "nights": "7 Nights",
+    "type": "Direct",
+    "price": "$103",
+    "status": "check out"
+  },
+  {
+    "name": "Jane Doe",
+    "nights": "4 Nights",
+    "type": "Expedia",
+    "price": "$256",
+    "status": "check out"
+  },
+  {
+    "name": "Jane Doe",
+    "nights": "2 Nights",
+    "type": "Expedia",
+    "price": "$634",
+    "status": "check in"
+  },
+    {
+    "name": "Money",
+    "nights": "3 Nights",
+    "type": "Direct",
+    "price": "$234",
+    "status": "check in"
+  }
+]

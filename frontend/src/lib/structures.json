@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Ocean View Hotel",
+    "type": "hotel",
+    "location": "Goa, India",
+    "totalUnits": 80,
+    "occupancyRate": 72,
+    "revenue": 125000,
+    "rating": 4.5,
+    "users": 12,
+    "propertyTypes": 5,
+    "status": "active",
+    "image": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210d1"
+  },
+  {
+    "id": "2",
+    "name": "City Center Apartments",
+    "type": "apartment",
+    "location": "Mumbai, India",
+    "totalUnits": 45,
+    "occupancyRate": 65,
+    "revenue": 78000,
+    "rating": 4.2,
+    "users": 8,
+    "propertyTypes": 3,
+    "status": "active",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
+  },
+  {
+    "id": "3",
+    "name": "Lakeside Mixed Use",
+    "type": "mixed",
+    "location": "Udaipur, India",
+    "totalUnits": 120,
+    "occupancyRate": 58,
+    "revenue": 160000,
+    "rating": 4.0,
+    "users": 20,
+    "propertyTypes": 7,
+    "status": "inactive",
+    "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+  },
+  {
+    "id": "4",
+    "name": "Mountain Retreat",
+    "type": "hotel",
+    "location": "Manali, India",
+    "totalUnits": 60,
+    "occupancyRate": 81,
+    "revenue": 98000,
+    "rating": 4.7,
+    "users": 10,
+    "propertyTypes": 4,
+    "status": "active",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+  }
+]

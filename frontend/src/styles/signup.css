@@ -1,0 +1,33 @@
+.custom-password-bar span {
+  display: block;
+  margin-top: 6px;
+  text-align: left;
+  color: #888;
+  font-size: 13px;
+  padding-left: 2px;
+}
+/* Hide all 4px width spacing divs */
+.custom-password-bar div[style*="width: 4px"] {
+  display: none !important;
+}
+
+/* Remove any gaps - make bars touch each other */
+.custom-password-bar > div {
+  gap: 0 !important;
+}
+
+/* Ensure no margins or padding between flex items */
+.custom-password-bar > div > div {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Move "good" text to left side */
+.custom-password-bar p {
+  text-align: left !important;
+}
+
+/* Increase height of password bars to 4px */
+.custom-password-bar div[style*="height: 2px"] {
+  height: 4px !important;
+}
